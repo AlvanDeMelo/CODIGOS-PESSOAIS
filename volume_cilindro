@@ -1,9 +1,0 @@
-#Programa do exercício proposto.
-
-h = float(input("Entre com a altura do cilindro:"))
-b = float(input("Entre com o raio da base do cilidro:"))
-
-#calculos
-volume = (3.14) * (b**2) * h
-
-print("O volume do cilindro é: ", volume)
