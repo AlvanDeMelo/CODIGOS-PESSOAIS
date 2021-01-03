@@ -1,4 +1,4 @@
-#O método "append()" serve para adicionar iten no final da lista:
+#O método "append()" serve para adicionar itens no final da lista:
 #Lista: 
 nomes = ['maria','manoel','harlan','juliana']
 
