@@ -14,6 +14,9 @@ for pizza in minhas_pizzas:
   #Exibe os sabores com a primeira letra maíuscula
   print(pizza.title())
 
+#Linha em branco
+print("\n")
+
 #Exibe pizzas do amigo
 for pizza in pizzas_amigo:
   #Exibe os sabores com a primeira letra maíuscula
