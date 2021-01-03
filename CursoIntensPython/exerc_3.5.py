@@ -13,4 +13,4 @@ saudacao = "Olá " +convidado[2].title()+ "! Você foi convidado para o meu jant
 print(saudacao)
 
 #Imprime o removido
-print("Infelizmente o convidado " +removido.title()+ " naõ poderá comparecer ao nosso jantar.")
+print("Infelizmente o convidado " +removido.title()+ " não poderá comparecer ao nosso jantar.")
