@@ -5,3 +5,6 @@ pizzas = ['napolitana','baiana','peruana','marguerita']
 for pizza in pizzas:
   #Exibe os sabores com a primeira letra maíuscula, seguida de uma frase
   print('Eu gosto do sabor de '+pizza.title()+'.\n')
+  
+#Exibe uma frase final fora do laço
+print('Eu realmente gosto muito de pizza!')
